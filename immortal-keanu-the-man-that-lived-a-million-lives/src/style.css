@@ -1,0 +1,34 @@
+body {
+  margin-top: 30px;
+}
+
+.reeves {
+  color: #007300;
+}
+
+.wrapmid1 {
+  margin: auto;
+  max-width: 300px;
+}
+
+.wrapmid2 {
+  margin: auto;
+  max-width: 512px;
+}
+
+
+.divclear {
+  clear: left;
+}
+
+.blockquote-reverse { 
+  font-size: 100%; 
+  border-color: #007300;
+} 
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background: -webkit-gradient(linear, 0 0, 100% 0, from(#CCC), to(#CCC), color-stop(50%, #007300));
+}
